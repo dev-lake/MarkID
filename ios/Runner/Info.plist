@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>马克证件</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>马克证件</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>此应用需要访问相机来拍摄证件照片</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>此应用需要访问相册来保存证件照片</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>此应用需要访问相册来选择证件照片</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>此应用需要访问位置信息来为证件照片添加地理位置标记</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>此应用需要访问位置信息来为证件照片添加地理位置标记</string>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>此应用需要访问 Apple Music 来提供背景音乐功能</string>
+	<key>NSSiriUsageDescription</key>
+	<string>此应用需要访问 Siri 来提供语音控制功能</string>
+	<key>NSMotionUsageDescription</key>
+	<string>此应用需要访问运动传感器来检测设备方向变化</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>此应用需要访问语音识别来提供语音输入功能</string>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>
